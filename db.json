@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Food 1",
+      "price": "30",
+      "category": "Food",
+      "img": "https://cataas.com/cat"
+    }, {
+      "id": "2",
+      "name": "Watch 1",
+      "price": "20",
+      "category": "Watches",
+      "img": "https://cataas.com/cat"
+    }, {
+      "id": "3",
+      "name": "Jeans 1",
+      "price": "500",
+      "category": "Jeans",
+      "img": "https://cataas.com/cat"
+    }, {
+      "id": "4",
+      "name": "Clothes 1",
+      "price": "800",
+      "category": "Clothes",
+      "img": "https://cataas.com/cat"
+    }, {
+      "id": "5",
+      "name": "Jeans 2",
+      "price": "400",
+      "category": "Jeans",
+      "img": "https://cataas.com/cat"
+    }, {
+      "id": "6",
+      "name": "Food 2",
+      "price": "30",
+      "category": "Food",
+      "img": "https://cataas.com/cat"
+    },
+    {
+      "id": "1",
+      "name": "Food 1",
+      "price": "30",
+      "category": "Food",
+      "img": "https://cataas.com/cat"
+    }, {
+      "id": "2",
+      "name": "Watch 1",
+      "price": "20",
+      "category": "Watches",
+      "img": "https://cataas.com/cat"
+    }, {
+      "id": "3",
+      "name": "Jeans 1",
+      "price": "500",
+      "category": "Jeans",
+      "img": "https://cataas.com/cat"
+    }, {
+      "id": "2",
+      "name": "Watch 2",
+      "price": "20",
+      "category": "Watches",
+      "img": "https://cataas.com/cat"
+    },
+    {
+      "id": "4",
+      "name": "Clothes 2",
+      "price": "800",
+      "category": "Clothes",
+      "img": "https://cataas.com/cat"
+    },
+    {
+      "id": "4",
+      "name": "Clothes 3",
+      "price": "800",
+      "category": "Clothes",
+      "img": "https://cataas.com/cat"
+    }
+  ]
+}
